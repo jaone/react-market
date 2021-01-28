@@ -1,3 +1,5 @@
+import React from 'react'
+
 import Sort from './components/Sort'
 import Filter from './components/filter'
 import Header from './components/Header'
